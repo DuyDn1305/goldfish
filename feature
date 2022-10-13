@@ -9,3 +9,4 @@ git checkout main
 git rebase feature
 git push
 done
+-- yes
