@@ -10,6 +10,8 @@ resolve conflit
     git commit
     git rebase --continue
 -- return
+dsfadf s azcx
+huuyru
 git checkout main
 git rebase feature
 git push
