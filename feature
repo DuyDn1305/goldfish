@@ -4,7 +4,7 @@ git checkout main
 git pull
 git checkout feature
 git rebase main
--- if conflit
+-- if conflit not conflit
 resolve conflit
     git add
     git commit
