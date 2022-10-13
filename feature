@@ -9,6 +9,7 @@ resolve conflit
     git add
     git commit
     git rebase --continue
+-- return
 git checkout main
 git rebase feature
 git push
